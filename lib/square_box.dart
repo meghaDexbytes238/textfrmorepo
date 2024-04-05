@@ -13,6 +13,7 @@ class SquareDemo extends StatelessWidget {
        // padding: EdgeInsets.all(5),
         color: Colors.lime,
        child: Center(child: Text(child , style: TextStyle(fontSize: 40 , color: Colors.purple,backgroundColor: Colors.blueAccent),)  ),
+
       ),
     );
   }
