@@ -12,7 +12,9 @@ class SquareDemo extends StatelessWidget {
         height: 300,
        // padding: EdgeInsets.all(5),
         color: Colors.lime,
-       child: Center(child: Text('my new feature' , style: TextStyle(fontSize: 40 , color: Colors.purple),)  ),
+       child: Text('new third branch'),
+       // child: Center(child: Text('my new feature' , style: TextStyle(fontSize: 40 , color: Colors.purple),)  ),
+
       ),
     );
   }
